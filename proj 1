@@ -1,5 +1,14 @@
 <!DOCTYPE html>
-<html lang="pt-bt">
-<head>
-    <meta charset="UTF-8">
-    <title>Barbearia Alura<
+<html>
+    <head> 
+        <meta charset="utf-8">
+        <title>Aula pensamento computacional 20/10</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header> 
+            <h1 class="titulo principal">Aula pensamento computacional 20/10</h1>
+        </header>
+        <img id="capa" scr="capa.pnj">
+    </body>
