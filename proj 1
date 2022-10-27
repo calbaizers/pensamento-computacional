@@ -1,14 +1,16 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-    <head> 
+    <head>
         <meta charset="utf-8">
-        <title>Aula pensamento computacional 20/10</title>
+        <title>Como cuidar do meio ambiente</title>
         <link rel="stylesheet" href="style.css">
     </head>
+    <header>
+    		</header><h1><strong>Como cuidar do meio ambiente</strong></h1>
 
-    <body>
-        <header> 
-            <h1 class="titulo principal">Aula pensamento computacional 20/10</h1>
-        </header>
-        <img id="capa" scr="capa.pnj">
-    </body>
+   		 <body><p><font size=3>
+   		 Meio ambiente é o conjunto de elementos, processos e dinâmicas biológicos, físicos e químicos que criam condições e mantêm a vida no planeta Terra, compreendendo também os seres humanos e as dinâmicas sociais, culturais e econômicas. O meio ambiente é composto pela biosfera, hidrosfera, atmosfera e litosfera. É dele que retiramos os elementos essenciais para a nossa sobrevivência, como água, ar, alimentos e matérias-primas, um dos motivos pelos quais a sua conservação se faz tão importante.</font size=3></p>
+    	 </body>
+
+</html>
